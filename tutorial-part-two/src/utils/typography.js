@@ -1,7 +1,6 @@
 import Typography from "typography";
-// import bootstrapTheme from "typography-theme-bootstrap"
-import lawtonTheme from "typography-theme-lawton"
+import oceanBeachTheme from 'typography-theme-ocean-beach'
 
-const typography = new Typography(lawtonTheme)
+const typography = new Typography(oceanBeachTheme)
 
 export default typography;
